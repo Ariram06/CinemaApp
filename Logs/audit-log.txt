@@ -1,0 +1,13 @@
+[2026-10-30 11:21:09] Movie | Added | Movie ID: 5 | Movie: Leo
+[2026-10-30 11:21:10] Movie | Updated | Movie ID: 3 | Movie: Leo (Bloody Sweet)
+[2026-10-30 11:21:10] Movie | Deleted | Movie ID: 3 | Movie: Leo (Bloody Sweet)
+[2026-10-30 11:21:12] Show | Added | Show ID: 4 | Movie ID: 1
+[2026-10-30 11:21:12] Show | Updated | Show ID: 3
+[2026-10-30 11:21:12] Show | Deleted | Show ID: 3
+[2026-10-30 11:21:15] Seat | Added | Seat ID: 4 | Show ID: 1 | Row: C | Seat: 10
+[2026-10-30 11:21:15] Seat | Updated | Seat ID: 4 | Show ID: 1 | Row: C | Seat: 11
+[2026-10-30 11:21:15] Seat | Deleted | Seat ID: 4
+[2026-10-30 11:21:18] Customer | Added | Customer ID: 3 | Name: Ariram
+[2026-10-30 11:21:54] Booking | Created | Booking ID: 4 | Customer ID: 3
+[2026-10-30 11:21:54] Booking | Cancelled | Booking ID: 4
+[2026-10-30 11:21:54] Booking | Cancelled | Booking ID: 3
